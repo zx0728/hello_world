@@ -1,4 +1,4 @@
 # hello_world\
 Hi human
 There is ZX world 
-I will contral myself life
+I will control myself life
